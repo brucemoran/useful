@@ -48,8 +48,10 @@ extra_fn_clean_exts:
     - .bbduk.R1.fastq.gz
     - .bbsplit.refstats.txt
     - .bam
+    - .sort
     - .sort.bam
     - .sort.md.bam
+    - .sort.md.bqsr
     - .sort.md.bqsr.bam
     - .sam
     - .sra
